@@ -1,0 +1,18 @@
+
+.container 
+{
+    padding: 20px;
+    text-align: center;
+}
+
+input
+{
+    margin-bottom: 10px;
+}
+
+.button 
+{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px; 
+}
