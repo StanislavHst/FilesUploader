@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "AzureFunc": {
+    "FilesUploader.BlobTrigger": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7218",
+      "commandLineArgs": "--port 7119",
       "launchBrowser": false
     }
   }
