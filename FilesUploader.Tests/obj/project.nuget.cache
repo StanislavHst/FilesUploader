@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CuCZqRxU5S5c9IsiG1ERDJNibcFz54pTzDSm3c3Kv+F7rrf7/xFckN4mhZJpj5/HoqGvJtksWbAw7FaDG8hlhw==",
+  "dgSpecHash": "5JcTb6PhJxAzbRFJPD1doDPcpcNSVBceiv6DR9R+YImskeMTIPz7XHSTpXgE3bfQu1b7bveq/7n4q9xfgSJHLg==",
   "success": true,
   "projectFilePath": "D:\\forRider\\FilesUploader\\FilesUploader.Tests\\FilesUploader.Tests.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,7 @@
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\1.0.0\\microsoft.extensions.caching.abstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.caching.memory\\1.0.0\\microsoft.extensions.caching.memory.1.0.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
-    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.1.1\\microsoft.extensions.configuration.environmentvariables.2.1.1.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\2.1.1\\microsoft.extensions.configuration.fileextensions.2.1.1.nupkg.sha512",
@@ -64,7 +64,7 @@
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.0\\microsoft.extensions.options.configurationextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.platformabstractions\\1.1.0\\microsoft.extensions.platformabstractions.1.1.0.nupkg.sha512",
-    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.identity.client\\4.39.0\\microsoft.identity.client.4.39.0.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\stasi\\.nuget\\packages\\microsoft.net.http.headers\\2.1.1\\microsoft.net.http.headers.2.1.1.nupkg.sha512",
